@@ -6,3 +6,5 @@ Test
 One
 Two
 Three
+
+Workspace check
