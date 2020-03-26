@@ -1,2 +1,2 @@
 # Portfolio
-This is my portfolio. Let's rage.
+This is my portfolio. Lets rage.
